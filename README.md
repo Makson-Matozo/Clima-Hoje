@@ -40,11 +40,11 @@ O projeto foi desenvolvido para funcionar corretamente em diferentes tamanhos de
 
 ### Versão Desktop
 
-<img src="preview-desktop.png" width="800">
+<img src="imagem/preview-desktop.png" width="800">
 
 ### Versão Mobile
 
-<img src="preview-mobile.png" width="300">
+<img src="imagem//preview-mobile.png" width="300">
 
 ---
 
