@@ -44,7 +44,7 @@ O projeto foi desenvolvido para funcionar corretamente em diferentes tamanhos de
 
 ### Versão Mobile
 
-<img src="imagens//preview-mobile.png" width="300">
+<img src="imagens/preview-mobile.png.png" width="300">
 
 ---
 
