@@ -73,5 +73,5 @@ Este projeto faz parte da minha jornada de aprendizado em **desenvolvimento web*
 
 Desenvolvido por **Makson Matozo**
 
-🔗 LinkedIn: (colocar link aqui depois)  
+🔗 LinkedIn: https://www.linkedin.com/in/makson-matozo-46911a312/
 🔗 GitHub: https://github.com/Makson-Matozo
